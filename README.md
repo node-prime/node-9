@@ -1,0 +1,2 @@
+# node9
+node-9 is a candidate in the 2019 Komodo (KMD) Notary Node elections.  Operated by CrisF, node-9 will play an active part in the Komodo Notary Node community, providing a reliable and timely notarization service.   Information on how the NN elections work and how to vote can be found on the Komodo website, here and on Komodoelection.com. One KMD earns one vote token. It is possible to send portions of your vote tokens to multiple candidates.  Please send your vote token here:  RBDivEArcb7aRsYTvtN5MRnaxeDAepSNmW
