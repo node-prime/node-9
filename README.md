@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ![n9 Header](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_banner.png)
 # CrisF   node-9 
 ### KMD Notary Node Proposal 2019
