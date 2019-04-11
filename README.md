@@ -19,6 +19,7 @@ I am in fact far, far better than that.
 
     Discord:  CrisF#3405
     Email:    CrisFell@pm.me
+    Website:  https://node9.xyz/
 
 ### How to participate
 Information on how the NN elections work and how to vote can be found on the [Komodo website, here](https://komodoplatform.com/third-annual-notary-node-election/) and on [Komodoelection.com](https://komodoelection.com).  One KMD earns one vote token. It is possible to send portions of your vote tokens to multiple candidates. 
@@ -113,5 +114,6 @@ CrisF
 
     Discord:  CrisF#3405
     Email:    CrisFell@pm.me
+    Website:  https://node9.xyz/
     
 ![n9 Footer](https://raw.githubusercontent.com/node-prime/node-9/master/n-9_banner_blanc.png)
