@@ -77,7 +77,7 @@ Minimum specifications will be as follows:
 | ------ | ------ |
 | CPU | Xeon/i7 (or equivalent AMD) |
 | RAM | 128GB DDR4 ECC |
-| Storage| 2 x 1TB SSD purpose|
+| Storage| 2 x 1TB SSD|
 | Network | 1 Gbps |
 | Location | EU datacentre |
 
