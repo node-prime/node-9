@@ -12,19 +12,19 @@ Well, the elections have officially started!
 
 Vote totals and results can be found here:
 
-    Stats:      [https://dexstats.info/votelist.php](https://dexstats.info/votelist.php)
-    Explorer:   [https://vote2019.explorer.dexstats.info](https://vote2019.explorer.dexstats.info)
-    Richlist:   [https://vote2.kmdexplorer.io/richlist](https://vote2.kmdexplorer.io/richlist)
+Stats:      [https://dexstats.info/votelist.php](https://dexstats.info/votelist.php)
+Explorer:   [https://vote2019.explorer.dexstats.info](https://vote2019.explorer.dexstats.info)
+Richlist:   [https://vote2.kmdexplorer.io/richlist](https://vote2.kmdexplorer.io/richlist)
     
 ### Testnet
 
-node-9 is running well on testnet.  Decker has kindly put up a bounty for the most notarizations for this week, finishing on Sunday, 21 April.  That will be the next target.  It will be a difficult goal to reach with 2 strong candidates out in front.  A week is a long time though and muchh can happen :)
+node-9 is running well on testnet.  Decker has kindly put up a bounty for the most total notarizations at the end of this week, finishing on Sunday, 21 April.  That will be the next target.  It will be a difficult goal to reach with 2 strong candidates out in front.  A week is a long time though and muchh can happen :)
 
 ![Decker's Bounty](https://raw.githubusercontent.com/node-prime/node-9/master/Deckers_bounty.png)
 
 You can follow node-9's testnet stats here (node-9 is labeled as "CrisF"):
 
-    Testnet Stats:   [https://notarystats.info/testnet.php?period=all](https://notarystats.info/testnet.php?period=all)
+Testnet Stats:   [https://notarystats.info/testnet.php?period=all](https://notarystats.info/testnet.php?period=all)
    
 
 It is possible that the node-9 server may be upgraded over the coming weekend. It will take some time to optimize and may involve some downtime, so servers may not be switched until after claiming Decker's bounty ;)   Fingers crossed.
