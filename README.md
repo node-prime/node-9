@@ -13,7 +13,9 @@ Well, the elections have officially started!
 Vote totals and results can be found here:
 
 Stats:      [https://dexstats.info/votelist.php](https://dexstats.info/votelist.php)
+
 Explorer:   [https://vote2019.explorer.dexstats.info](https://vote2019.explorer.dexstats.info)
+
 Richlist:   [https://vote2.kmdexplorer.io/richlist](https://vote2.kmdexplorer.io/richlist)
     
 ### Testnet
