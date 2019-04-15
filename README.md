@@ -4,6 +4,7 @@
 # KMD NN Elections 2019
 
 Well, the elections have officially started!
+
 ![VOTE2019 airdrop announcement](https://raw.githubusercontent.com/node-prime/node-9/master/airdrop_ann.png)
 ___
 ### node-9 KMD Notary Node Proposal 2019
