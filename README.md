@@ -20,7 +20,7 @@ Richlist:   [https://vote2.kmdexplorer.io/richlist](https://vote2.kmdexplorer.io
     
 ### Testnet
 
-node-9 is running well on testnet.  Decker has kindly put up a bounty for the most total notarizations at the end of this week, finishing on Sunday, 21 April.  That will be the next target.  It will be a difficult goal to reach with 2 strong candidates out in front.  A week is a long time though and muchh can happen :)
+node-9 is running well on testnet.  Decker has kindly put up a bounty for the most total notarizations at the end of this week, finishing on Sunday, 21 April.  That will be the next target.  It will be a difficult goal to reach with 2 strong candidates out in front.  A week is a long time though and much can happen :)
 
 ![Decker's Bounty](https://raw.githubusercontent.com/node-prime/node-9/master/Deckers_bounty.png)
 
