@@ -1,6 +1,6 @@
 ![n9 Header](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_banner.png)
 # CrisF   node-9 
-[jump to node-9 NN Proposal](#node-9-kmd-notary-node-proposal-2019)
+[Jump to node-9 NN Proposal](#node-9-kmd-notary-node-proposal-2019)
 # KMD NN Elections 2019
 
 Well, the elections have officially started!
@@ -33,7 +33,8 @@ It is possible that the node-9 server may be upgraded over the coming weekend. I
 
 ___
 
-### node-9 KMD Notary Node Proposal 2019
+
+# node-9 KMD Notary Node Proposal 2019
 
 Thank you for checking out my Notary Node Proposal. Your votes would be greatly appreciated!
 Please send them here:  
