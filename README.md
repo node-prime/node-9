@@ -3,21 +3,21 @@
 [Jump to node-9 NN Proposal](#node-9-kmd-notary-node-proposal-2019)
 # KMD NN Elections 2019
 
-Well, the elections have officially started!
-
-
-![VOTE2019 airdrop announcement](https://raw.githubusercontent.com/node-prime/node-9/master/airdrop_ann.png)
-
 ## Thank you to those who have voted already!  Really appreciate your support.
 
-Vote totals and results can be found here:
+### Success
+node-9 hit its target!
 
-Stats:      [https://dexstats.info/votelist.php](https://dexstats.info/votelist.php)
 
-Explorer:   [https://vote2019.explorer.dexstats.info](https://vote2019.explorer.dexstats.info)
+![Testnet bounty winner announcement](https://raw.githubusercontent.com/node-prime/node-9/master/results.png)
 
-Richlist:   [https://vote2.kmdexplorer.io/richlist](https://vote2.kmdexplorer.io/richlist)
-    
+The goal for last week was to have the most overall notarizations on testnet and claim [Decker's bounty](#testnet). At approximately 11:45pm(UTC), with 15 minutes to spare, node-9 was able to edge past previous leader after a week-long chase.  That lead has been slowly increasing.  Still a long, long way to go.
+
+Very grateful to all of those people who have given their time, knowledge and support to show me the way. I'm standing on the backs of giants here.  Will keep doing my part.
+
+This coming week the plan is to maintain a notarization rate along with the top of the pack and get the new server up for testing and optimization.  Fun and frustration expected :)
+
+
 ### Testnet
 
 node-9 is running well on testnet.  Decker has kindly put up a bounty for the most total notarizations at the end of this week, finishing on Sunday, 21 April.  That will be the next target.  It will be a difficult goal to reach with 2 strong candidates out in front.  A week is a long time though and much can happen :)
@@ -33,7 +33,23 @@ It is possible that the node-9 server may be upgraded over the coming weekend. I
 
 ___
 
+# KMD NN Elections 2019
 
+Well, the elections have officially started!
+
+
+![VOTE2019 airdrop announcement](https://raw.githubusercontent.com/node-prime/node-9/master/airdrop_ann.png)
+
+## Thank you to those who have voted already!  Really appreciate your support.
+
+Vote totals and results can be found here:
+
+Stats:      [https://dexstats.info/votelist.php](https://dexstats.info/votelist.php)
+
+Explorer:   [https://vote2019.explorer.dexstats.info](https://vote2019.explorer.dexstats.info)
+
+Richlist:   [https://vote2.kmdexplorer.io/richlist](https://vote2.kmdexplorer.io/richlist)
+    
 # node-9 KMD Notary Node Proposal 2019
 
 Thank you for checking out my Notary Node Proposal. Your votes would be greatly appreciated!
