@@ -11,7 +11,7 @@ node-9 hit its target!
 
 ![Testnet bounty winner announcement](https://raw.githubusercontent.com/node-prime/node-9/master/results.png)
 
-The goal for last week was to have the most overall notarizations on testnet and claim [Decker's bounty](#testnet). At approximately 11:45pm(UTC), with 15 minutes to spare, node-9 was able to edge past previous leader after a week-long chase.  That lead has been slowly increasing.  Still a long, long way to go.
+The goal for last week was to have the most overall notarizations on testnet and claim [Decker's bounty](#testnet). At approximately 11:45pm(UTC) Sunday 20 April, with 15 minutes to spare, node-9 was able to edge past the previous leader after a week-long chase.  That lead has been slowly increasing.  Still a long, long way to go.
 
 Very grateful to all of those people who have given their time, knowledge and support to show me the way. I'm standing on the backs of giants here.  Will keep doing my part.
 
