@@ -33,7 +33,7 @@ node-9 is running well on testnet.  Decker has kindly put up a bounty for the mo
 
 ![Decker's Bounty](https://raw.githubusercontent.com/node-prime/node-9/master/Deckers_bounty.png)
 
-You can follow node-9's testnet stats here (node-9 is labeled as "CrisF"):
+You can follow node-9's testnet stats here (node-9 is labeled as "CrisF")  :
 
 Testnet Stats:   [https://notarystats.info/testnet.php?period=all](https://notarystats.info/testnet.php?period=all)
    
