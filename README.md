@@ -12,7 +12,7 @@ Many thanks go out to Kolo for his generous bounty of 50,000 VOTE2019!  Thank yo
 ![VOTE2019 bounty announcement](https://raw.githubusercontent.com/node-prime/node-9/master/VOTE2019_bounty.png
 )
 
-It was a busy week working on the new server and dealing with some downtime. The cause of this trouble is still under investigation.  It made for a 40-hour-day early in the week.  Not fun, but good practice and experience for when things get real on Mainnet.  The goal for the week is to continue optimizations on the new server and prepare for the big push during the final week of voting.  Again, keeping node9 around the top of the lead pack is a priority. 
+It was a busy week working on the new server and dealing with some downtime. The cause of this trouble is still under investigation.  It made for a 40-hour-day early in the week.  Not fun, but good practice and experience for when things get real on Mainnet.  The goal for the week is to continue optimizations on the new server and prepare for the big push during the final week of voting.  Again, keeping node-9 around the top of the lead pack is a priority. 
 
 ### Success
 node-9 hit its target!
