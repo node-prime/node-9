@@ -6,7 +6,7 @@
 ## Thank you to those who have voted already!  Really appreciate your support.
 
 ### Vote Bounty!
-Many thank go out to kolo for his generous bounty of 50,000 VOTE2019!  Thank you and all the others who have given their support.
+Many thanks go out to Kolo for his generous bounty of 50,000 VOTE2019!  Thank you and all the others who have given their support.
 
 
 ![VOTE2019 bounty announcement](https://raw.githubusercontent.com/node-prime/node-9/master/VOTE2019_bounty.png
