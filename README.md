@@ -5,8 +5,30 @@
 
 ## Thank you to those who voted fo node-9!  Really appreciate your support.
 
-### Results (unofficial)
-## node-9 won a spot!!
+## Results (unofficial)
+### node-9 won a spot!!
+
+![Unoficial results](https://raw.githubusercontent.com/node-prime/node-9/master/2019%20NN%20EU%20Election%20Results%20(unofficial).png
+)
+
+I am deeply humbled and grateful for all of the support that node-9 has received.  The election was very tight in the EU region and your VOTE2019 really counted.  Thank you very much.
+
+The support node-9 has received goes back far beyond these elections.
+
+One year ago I watched the Notary Node elections and thought to myself how cool it would be to play a part in supporting such a cause. I fantasized of myself having such a role. A pleasant distraction from the troubles I was having operating a simple GUI and navigating Slack.
+
+The patience, help and encouragement that have been so freely given by the Komodo community and certain members in particular is a testament to the character of this project and the importance of its purpose.
+
+To me the thing that has shone through the brightest in all of this has been people's willingness to give an 'anybody' a chance.  
+
+I didn't expect that.
+
+This experience has shown me a big part of what the 'blockchain revolution' and, more specifically, the Komodo project is about. It is something worth fighting for and I'll stand up and do my part. 
+
+Thank you for giving me this hope and opportunity, and for your support.
+
+CrisF
+
 
 ### Vote Bounty!
 Many thanks go out to Kolo for his generous bounty of 50,000 VOTE2019!  Thank you and all the others who have given their support.
