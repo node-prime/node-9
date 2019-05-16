@@ -6,8 +6,7 @@
 ## Results (unofficial)
 ### node-9 won a spot!!
 
-![Unoficial results](https://raw.githubusercontent.com/node-prime/node-9/master/2019%20NN%20EU%20Election%20Results%20(unofficial).png
-)
+![Unoficial results](https://raw.githubusercontent.com/node-prime/node-9/master/2019%20NN%20Election%20Results%20(unofficial).png)
 
 
 ## Thank you!
