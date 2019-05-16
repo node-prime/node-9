@@ -3,13 +3,14 @@
 [Jump to node-9 NN Proposal](#node-9-kmd-notary-node-proposal-2019)
 # KMD NN Elections 2019
 
-## Thank you to those who voted fo node-9!
-
 ## Results (unofficial)
 ### node-9 won a spot!!
 
 ![Unoficial results](https://raw.githubusercontent.com/node-prime/node-9/master/2019%20NN%20EU%20Election%20Results%20(unofficial).png
 )
+
+
+## Thank you!
 
 I am deeply humbled and grateful for all of the support that node-9 has received.  The election was very tight in the EU region and your VOTE2019 really counted.  Thank you very much.
 
