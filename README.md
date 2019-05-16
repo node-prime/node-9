@@ -1,9 +1,12 @@
 ![n9 Header](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_banner.png)
-# CrisF   node-9 
+# node-9 
 [Jump to node-9 NN Proposal](#node-9-kmd-notary-node-proposal-2019)
 # KMD NN Elections 2019
 
-## Thank you to those who have voted already!  Really appreciate your support.
+## Thank you to those who voted fo node-9!  Really appreciate your support.
+
+### Results (unofficial)
+## node-9 won a spot!!
 
 ### Vote Bounty!
 Many thanks go out to Kolo for his generous bounty of 50,000 VOTE2019!  Thank you and all the others who have given their support.
