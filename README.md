@@ -3,7 +3,7 @@
 [Jump to node-9 NN Proposal](#node-9-kmd-notary-node-proposal-2019)
 # KMD NN Elections 2019
 
-## Thank you to those who voted fo node-9!  Really appreciate your support.
+## Thank you to those who voted fo node-9!
 
 ## Results (unofficial)
 ### node-9 won a spot!!
