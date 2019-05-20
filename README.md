@@ -3,11 +3,28 @@
 [Jump to node-9 NN Proposal](#node-9-kmd-notary-node-proposal-2019)
 # KMD NN Elections 2019
 
+## It's official, node-9 won a place!
+
+![Official results](https://raw.githubusercontent.com/node-prime/node-9/master/2019%20NN%20Election%20Results%20(official).png)
+
+The new Notaries will take their places with the KMD hardfork, around the end of June / start of July.
+
+Until then it will be a busy month and a half of preparing and optimizing the server and getting in more practice.  The first month or two of mainnet should be quite intense with a lot to learn and do.
+
+There will be many more chains to notarize with some very talented and experienced NN operators.  During this preparation time new strategies and tactics will need to be developed.
+
+The election is now over, but your contact is always welcome.  Feel free to reach out anytime.  Happy to hear from you.
+
+Thank you very much for your support! 
+
+    Discord:  CrisF#3405
+    Email:    CrisFell@pm.me
+    Website:  https://node9.xyz
+    
 ## Results (unofficial)
 ### node-9 won a spot!!
 
-![Unoficial results](https://raw.githubusercontent.com/node-prime/node-9/master/2019%20NN%20Election%20Results%20(unofficial).png)
-
+![Unofficial results](https://raw.githubusercontent.com/node-prime/node-9/master/2019%20NN%20Election%20Results%20(unofficial).png)
 
 ## Thank you!
 
