@@ -1,6 +1,45 @@
 ![n9 Header](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_banner.png)
 # node-9 
-[Jump to node-9 NN Proposal](#node-9-kmd-notary-node-proposal-2019)
+[Jump to node-9 NN Information and Proposal](#node-9-kmd-notary-node-proposal-2019)
+
+## First month
+
+The first month flew by.  There were a few minor troubles that were dealt with but node-9 is performing well.
+
+The goal for month 2 is to start pulling up towards the leaders.  This will require some optimizations.
+
+There may be some changes in how Notary Nodes are selected to be amongst the 13 who make the actual notarizations to BTC over the next 4~6 weeks.  That may require some strategic and functional changes to ensure node-9's best performance.
+
+### node-9 Donations
+
+node-9 has paid out its first round of donations.  20% of KMD mined are donated to ![KMDLabs](https://kmdlabs.io) and you can find details of the payment below.
+
+    ---------
+    DONATIONS
+    ---------
+    ===============================================
+    July 15th, 0:00 UTC  ~  August 14th, 23:59 UTC		
+    -----------------------------------------------
+    
+    From:		Block #1444308
+    		BlockHash 03fc2720941cdccd5cf2335e227e428b19d4ac8d8aaa8f06464c551acf07d30a
+     
+    To:		Block #1487467
+    		BlockHash 055c261a8f339e4fe14bb53e2ca815d3cb3f374b5a14ec533d09acb4f43dff19
+    
+    Mining Data from:	https://komodostats.com/mining/notary/node-9_EU?start=2019-07-15&end=2019-08-15
+    
+    Blocks Mined:		541
+    
+    ---------------
+    Donation (out)
+    
+    KMDLabs (20%)
+    Address:	bDEV1RkHmDWx9PvHpyabcNQW2bJqk9Dt6J
+    txid:		d3ac152959cffb4a29a6167cf86c0e675a0fa16126b962d1fcf28df0fb31b9a6
+    ===============================================
+
+
 # KMD NN Elections 2019
 
 ## It's official, node-9 won a place!
