@@ -1,6 +1,41 @@
 ![n9 Header](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_banner.png)
 # node-9 
-[Jump to node-9 NN Information and Proposal](#node-9-kmd-notary-node-proposal-2019)
+[Jump to node-9 NN Information and Proposal(2019)](#node-9-kmd-notary-node-proposal-2019)
+
+## Month 2
+
+Month 2 proved to be very busy.  Node-9 has been involved in preparing for a test of the updated version of the Iguana software used for notarizatioins.  
+
+Notarization count was slightly up this month to 558, but needs improvement to pull up in overall rankings.  This improvement will be the goal from Month 3.
+
+### node-9 Donations
+
+Node-9 has paid out its second round of donations.  20% of KMD mined are donated to ![KMDLabs](https://kmdlabs.io) and you can find details of the payment below.
+
+    ---------
+    DONATIONS
+    ---------
+    ===============================================
+    August 15th, 0:00 UTC  ~  September 14th, 23:59 UTC		
+    -----------------------------------------------
+    
+    From:		Block #1487490
+    		BlockHash  00e787dbd935883acd01e699d9b8f22b1483aa011ae5d443ac5ac8191ae79a0e
+     
+    To:		Block #1531710
+    BlockHash  062642d19e95d1870df1ff10cee534ebc768f9cc112a8a7cba813a753cab0f76
+    
+    Mining Data from:	https://komodostats.com/mining/notary/node-9_EU?start=2019-08-15&end=2019-09-14
+    
+    Blocks Mined:		558
+    
+    ---------------
+    Donation (out)
+    
+    KMDLabs (20%)
+    Address:	bDEV1RkHmDWx9PvHpyabcNQW2bJqk9Dt6J
+    txid:		83642aba7b98a4ecab5295727d87956f8e643914cdb5d8782acaaa4011e683f8
+    ===============================================
 
 ## First month
 
