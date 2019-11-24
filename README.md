@@ -2,6 +2,45 @@
 # node-9 
 [Jump to node-9 NN Information and Proposal(2019)](#node-9-kmd-notary-node-proposal-2019)
 
+## Month 3 & 4 
+
+Month 3 & 4 have seen notarizations stats lower that needed. A change of servers is being considered depending on how optimizations currently being worked effect performance.
+
+Donations will be combined for the last 2 months and this update are being combined due to time constraints and this will most likely continue.  Please contact node-9 for updates or questions.
+
+Work with other Notary Node operators developing procedures and was the focus of the beginning of the 3rd month with a very strong focus on work for Komodo outside of the Notary Node arena. This will continue to be the main focus over the coming months.
+
+### node-9 Donations
+
+Node-9's 3rd and 4th round of donations are detailed below. As usual 20% of KMD mined are donated to the KMDLabs Dev Fund.
+
+Thanks for your continued support!
+
+    ---------
+    DONATIONS
+    ---------
+    ===============================================
+    September 15th, 0:00 UTC  ~  November 14th, 23:59 UTC		
+    -----------------------------------------------
+
+    From:		Block #1531782
+        		BlockHash   0bf895d415a63f954d5cf160a210c72eefad7c1c7cdf06a052233d8dadd0c308
+ 
+    To:	    	Block #1618699
+        		BlockHash   014e8c3da7b803cc8d41457e1a2e69284aec114e63a50f07313b48965a2de03d
+
+    Mining Data from:	https://komodostats.com/mining/notary/node-9_EU?start=2019-09-15&end=2019-11-14
+
+    Blocks Mined:		998
+
+    ---------------
+    Donation (out)
+
+    KMDLabs (20%)
+    Address:	bDEV1RkHmDWx9PvHpyabcNQW2bJqk9Dt6J
+    txid:		7e33393c1791d9b22274041182f02334dd8499fe8461506eb7706837d8a4aa05
+    ===============================================
+
 ## Month 2
 
 Month 2 proved to be very busy.  Node-9 has been involved in preparing for a test of the updated version of the Iguana software used for notarizatioins.  
