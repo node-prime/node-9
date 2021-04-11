@@ -1,15 +1,21 @@
 ![n9 Header](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_banner.png)
 # node-9 
 
-### KMD Notary Node Proposal 2020
+### KMD Notary Node Proposal 2021
 
-Thank you for checking out my Notary Node Proposal. Your votes would be greatly appreciated!
-
-Please send them here:  **RCKC2LrT18hymTjajK1BaqxGKV76NnfHTo**        --> ![n9 Address QR](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_address_QR.png)
+Thank you for checking out my Notary Node Proposal. Node-9 is eligible and running for EU and NA in the the Season 5 2021 elections.  Your votes would be greatly appreciated!
 
 ### Region:       EU
 
-### Vote address: RCKC2LrT18hymTjajK1BaqxGKV76NnfHTo
+Please send VOTE2021 here:  **RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**        --> ![n9 Address QR](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_address_QR=XXXX.png)
+
+### EU VOTE2021 address: RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt
+
+### Region:       NA
+
+Please send VOTE2021 here:  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**        --> ![n9 Address QR](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_address_QR=XXXX.png)
+
+### NA VOTE2021 address  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**
 
 ### TL;dr  --  The Point
 
