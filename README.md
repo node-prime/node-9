@@ -5,27 +5,6 @@
 
 Thank you for checking out my Notary Node Proposal. As a proven reliable Komodo Notary Node Operator, Node-9 is eligible and running for EU and NA in the the Season 5 2021 elections.  Your votes would be greatly appreciated!
 
----
-### Region:       EU
-
-Please send VOTE2021 here:  **RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**        --> ![n9 Address QR](https://raw.githubusercontent.com/node-prime/node-9/master/n9_EU_address_QRcode_2021.png)
-
-**EU** VOTE2021 address:  **RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**
-
----
-
-### Region:       NA
-
-Please send VOTE2021 here:  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**        --> ![n9 Address QR](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_NA_address_QRcode_2021.png)
-
-**NA** VOTE2021 address:  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**
-
----
-
- *If you would like to vote for only one of the Node-9 addresses, please send VOTE2021 to the Node-9* **EU node. RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**
- 
----
-
 ### TL;dr  --  The Point
 
 > The point of all of this is to give you one simple picture.
@@ -45,7 +24,28 @@ Please send VOTE2021 here:  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**        --> ![
 > - received numerous Komodo awards and prizes for Komodo work
 > - organize and actively involved in a Tokyo-based privacy group
 > (Further contributions listed below) 
-  
+
+---
+### Region:       EU
+
+Please send VOTE2021 here:  **RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**        --> ![n9 Address QR](https://raw.githubusercontent.com/node-prime/node-9/master/n9_EU_address_QRcode_2021.png)
+
+**EU** VOTE2021 address:  **RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**
+
+---
+
+### Region:       NA
+
+Please send VOTE2021 here:  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**        --> ![n9 Address QR](https://raw.githubusercontent.com/node-prime/node-9/master/n9_NA_address_QRcode_2021.png)
+
+**NA** VOTE2021 address:  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**
+
+---
+
+ *If you would like to vote for only one of the Node-9 addresses, please send VOTE2021 to the Node-9* **EU node. RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**
+ 
+---
+
  Get in touch if you have any questions.
 
     Discord:  CrisF#3405 (412482228359266328)
