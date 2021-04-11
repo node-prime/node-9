@@ -8,7 +8,7 @@ Thank you for checking out my Notary Node Proposal. As a proven reliable Komodo 
 ---
 ### Region:       EU
 
-Please send VOTE2021 here:  **RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**        --> ![n9 Address QR](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_address_QR=XXXX.png)
+Please send VOTE2021 here:  **RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**        --> ![n9 Address QR](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_EU_address_QRcode_2021.png)
 
 **EU** VOTE2021 address:  **RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**
 
@@ -16,7 +16,7 @@ Please send VOTE2021 here:  **RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**        --> ![
 
 ### Region:       NA
 
-Please send VOTE2021 here:  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**        --> ![n9 Address QR](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_address_QR=XXXX.png)
+Please send VOTE2021 here:  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**        --> ![n9 Address QR](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_NA_address_QRcode_2021.png)
 
 **NA** VOTE2021 address:  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**
 
