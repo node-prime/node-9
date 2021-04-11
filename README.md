@@ -36,7 +36,7 @@ Please send VOTE2021 here:  **RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**        --> ![
 
 ### Region:       NA
 
-Please send VOTE2021 here:  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**        --> ![n9 Address QR](https://raw.githubusercontent.com/node-prime/node-9/master/n9_NA_address_QRcode_2021.png)
+![n9 Address QR](https://raw.githubusercontent.com/node-prime/node-9/master/n9_NA_address_QRcode_2021.png)        <-- Please send VOTE2021 here:  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**
 
 **NA** VOTE2021 address:  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**
 
