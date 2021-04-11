@@ -1,4 +1,4 @@
-![n9 Header](https://raw.githubusercontent.com/node-prime/node-9/master/n9_banner_2021.png)
+![n9 Header](https://raw.githubusercontent.com/node-prime/node-9/master/n9_banner_2021_2.png)
 # node-9 
 
 ### KMD Notary Node Proposal 2021
