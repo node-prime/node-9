@@ -38,8 +38,9 @@ Please send VOTE2021 here:  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**        --> ![
 > - panel member on podcast with Komodo Team member
 > - received numerous Komodo awards and prizes for Komodo work
 > - organize and actively involved in a Tokyo-based privacy group
-> (Further contributions listed below)   
-> Get in touch if you have any questions.
+> (Further contributions listed below) 
+  
+ Get in touch if you have any questions.
 
     Discord:  CrisF#3405 (412482228359266328)
     Email:    CrisFell@pm.me
