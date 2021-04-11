@@ -3,44 +3,62 @@
 
 ### KMD Notary Node Proposal 2021
 
-Thank you for checking out my Notary Node Proposal. Node-9 is eligible and running for EU and NA in the the Season 5 2021 elections.  Your votes would be greatly appreciated!
+Thank you for checking out my Notary Node Proposal. As a proven reliable Komodo Notary Node Operator, Node-9 is eligible and running for EU and NA in the the Season 5 2021 elections.  Your votes would be greatly appreciated!
 
+---
 ### Region:       EU
 
 Please send VOTE2021 here:  **RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**        --> ![n9 Address QR](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_address_QR=XXXX.png)
 
 ### EU VOTE2021 address: RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt
-
+---
 ### Region:       NA
 
 Please send VOTE2021 here:  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**        --> ![n9 Address QR](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_address_QR=XXXX.png)
 
 ### NA VOTE2021 address  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**
+---
+ *If you would like to vote for only one of the Node-9 addresses, please send VOTE2021 to the Node-9* **EU node. RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**
 
 ### TL;dr  --  The Point
 
 > The point of all of this is to give you one simple picture.
 > **```I'll be there, I'll do the work and I'll push limits.```**
-> You can check my record on this through Discord search, or
-> by asking around.  Get in touch if you have any questions.
+
+> **Contributions**
+> - donated 150,000 Japanese Yen (JPY) for activities promoting
+>  Komodo in Japan and abroad
+> - active Komodo Moderator
+> - 5th place in the highly competitve EU region
+> - participted in testing dPoW
+> - Komodo Ammbassador
+> - most active non-Team poster on Komodo Portal, 2nd overall
+> - presented Komodo, AtomicDEX, and Community projects
+>  at live events at privacy, crypto and FinTech events in Tokyo
+> - panel member on podcast with Komodo Team member
+> - received numerous Komodo awards and prizes for Komodo work
+> - organize and actively involved in a Tokyo-based privacy group
+> (Further contributions listed below)   
+> Get in touch if you have any questions.
 
     Discord:  CrisF#3405 (412482228359266328)
     Email:    CrisFell@pm.me
-    Website:  https://node9.xyz
 
 PGP Key:  [See page bottom](#pgp-key)
 
 ### How to participate
 
-Information on how the NN elections work and how to vote can be found on the [Komodo website, here](https://komodoplatform.com/fourth-annual-notary-node-election/) and in the [Notary Bible](https://github.com/KomodoPlatform/dPoW/blob/master/doc/bible.md).  One KMD earns one vote token. It is possible to send portions of your vote tokens to multiple candidates. 
+Information on how the NN elections work and how to vote can be found on the [Komodo website, here](https://blog.komodoplatform.com/en/fifth-annual-notary-node-election/) and in the [Notary Bible](https://github.com/KomodoPlatform/dPoW/blob/s5/doc/bible.md).  One KMD earns one vote token. It is possible to send portions of your vote tokens to multiple candidates. 
 
 # Proposal
 
-### Region: EU
-
 ### Purpose
 
-As a Komodo EU Notary I will focus on notarizing.  I will also support others in doing the same.  I believe that what we are creating here with Komodo is a very important step in the right direction.  As such, I take the responsibility of the role of Notary Node operator very seriously.
+As a Komodo Notary Node operator I will focus on notarizing.  I will also support others in doing the same.  I believe that what we are creating here with Komodo is a very important step in the right direction.  As such, I take the responsibility of the role of Notary Node operator very seriously.
+
+### Pledge
+
+As a Komodo Notary Node operator in 2021/2 (Season 5) I pledge to donate no less than 5% of NN mining earnings to the benefit of Komodo.  These donations will be used for promotional activities such as translations, conference fees, prizes, test servers, etc.
 
 ### Method
 
@@ -77,7 +95,7 @@ Through the use of a network of support I have developed and with the experience
 
 - donations to Komodo, KMDLabs, PIRATE
   * nSPV translation (paid translator)
-  * KMDLabs Dev Fund (20% of NN mined KMD)
+  * KMDLabs Dev Fund (10% of NN mined KMD)
   * PIRATE website translation (paid translator)
 
 -  testing contributions
@@ -148,324 +166,13 @@ Through the use of a network of support I have developed and with the experience
 
 - actively working with KMD team, outside of the online world, to bring business to KMD and its ecosystem
 
-### Pledge
-
-As a Komodo Notary Node operator in 2020/1 (Season 4) I pledge to donate no less than 10% of NN mining earnings to the benefit of Komodo.  These donations will be used for promotional activities such as translations, conference fees, prizes, test servers, etc.
-
-### The Point
-
-**```I'll be there, I'll do the work and I'll push limits.```**
-
-I believe that my track record supports this.
-
-Please send votes my way.
-
-### Vote address: RCKC2LrT18hymTjajK1BaqxGKV76NnfHTo
-
-Thanks!
-
-CrisF
-
 ### Disclosure
 
-- I am a Season 3 Notary Node operator [node-9](https://node9.xyz).
+- I am a Season 3 & 4 Notary Node operator [node-9](https://node9.xyz).
 
 - I am a current [KMDLabs Notary Node](https://kmdlabs.com/notary-node) operator.
 
 - I have made personal donations to KMDLabs, Komodo and PIRATE. (NN mined funds, translation fees paid to translators)
-
-### Contact information
-
-    Discord:  CrisF#3405
-    Email:    CrisFell@pm.me
-    Website:  https://node9.xyz      
-
-PGP Key:  [See page bottom](#pgp-key) 
-
-![n9 Footer](https://raw.githubusercontent.com/node-prime/node-9/master/n-9_banner_blanc.png)
-
-
-[Jump to node-9 NN Information and Proposal(2019)](#node-9-kmd-notary-node-proposal-2019)
-
-## Month 3 & 4 
-
-Month 3 & 4 have seen notarizations stats lower that needed. A change of servers is being considered depending on how optimizations currently being worked effect performance.
-
-Donations will be combined for the last 2 months and this update are being combined due to time constraints and this will most likely continue.  Please contact node-9 for updates or questions.
-
-Work with other Notary Node operators developing procedures and was the focus of the beginning of the 3rd month with a very strong focus on work for Komodo outside of the Notary Node arena. This will continue to be the main focus over the coming months.
-
-### node-9 Donations
-
-Node-9's 3rd and 4th round of donations are detailed below. As usual 20% of KMD mined are donated to the KMDLabs Dev Fund.
-
-Thanks for your continued support!
-
-    ---------
-    DONATIONS
-    ---------
-    ===============================================
-    September 15th, 0:00 UTC  ~  November 14th, 23:59 UTC		
-    -----------------------------------------------
-
-    From:		Block #1531782
-        		BlockHash   0bf895d415a63f954d5cf160a210c72eefad7c1c7cdf06a052233d8dadd0c308
- 
-    To:	    	Block #1618699
-        		BlockHash   014e8c3da7b803cc8d41457e1a2e69284aec114e63a50f07313b48965a2de03d
-
-    Mining Data from:	https://komodostats.com/mining/notary/node-9_EU?start=2019-09-15&end=2019-11-14
-
-    Blocks Mined:		998
-
-    ---------------
-    Donation (out)
-
-    KMDLabs (20%)
-    Address:	bDEV1RkHmDWx9PvHpyabcNQW2bJqk9Dt6J
-    txid:		7e33393c1791d9b22274041182f02334dd8499fe8461506eb7706837d8a4aa05
-    ===============================================
-
-## Month 2
-
-Month 2 proved to be very busy.  Node-9 has been involved in preparing for a test of the updated version of the Iguana software used for notarizatioins.  
-
-Notarization count was slightly up this month to 558, but needs improvement to pull up in overall rankings.  This improvement will be the goal from Month 3.
-
-### node-9 Donations
-
-Node-9 has paid out its second round of donations.  20% of KMD mined are donated to ![KMDLabs](https://kmdlabs.io) and you can find details of the payment below.
-
-    ---------
-    DONATIONS
-    ---------
-    ===============================================
-    August 15th, 0:00 UTC  ~  September 14th, 23:59 UTC		
-    -----------------------------------------------
-    
-    From:		Block #1487490
-    		BlockHash  00e787dbd935883acd01e699d9b8f22b1483aa011ae5d443ac5ac8191ae79a0e
-     
-    To:		Block #1531710
-    BlockHash  062642d19e95d1870df1ff10cee534ebc768f9cc112a8a7cba813a753cab0f76
-    
-    Mining Data from:	https://komodostats.com/mining/notary/node-9_EU?start=2019-08-15&end=2019-09-14
-    
-    Blocks Mined:		558
-    
-    ---------------
-    Donation (out)
-    
-    KMDLabs (20%)
-    Address:	bDEV1RkHmDWx9PvHpyabcNQW2bJqk9Dt6J
-    txid:		83642aba7b98a4ecab5295727d87956f8e643914cdb5d8782acaaa4011e683f8
-    ===============================================
-
-## First month
-
-The first month flew by.  There were a few minor troubles that were dealt with but node-9 is performing well.
-
-The goal for month 2 is to start pulling up towards the leaders.  This will require some optimizations.
-
-There may be some changes in how Notary Nodes are selected to be amongst the 13 who make the actual notarizations to BTC over the next 4~6 weeks.  That may require some strategic and functional changes to ensure node-9's best performance.
-
-### node-9 Donations
-
-node-9 has paid out its first round of donations.  20% of KMD mined are donated to ![KMDLabs](https://kmdlabs.io) and you can find details of the payment below.
-
-    ---------
-    DONATIONS
-    ---------
-    ===============================================
-    July 15th, 0:00 UTC  ~  August 14th, 23:59 UTC		
-    -----------------------------------------------
-    
-    From:		Block #1444308
-    		BlockHash 03fc2720941cdccd5cf2335e227e428b19d4ac8d8aaa8f06464c551acf07d30a
-     
-    To:		Block #1487467
-    		BlockHash 055c261a8f339e4fe14bb53e2ca815d3cb3f374b5a14ec533d09acb4f43dff19
-    
-    Mining Data from:	https://komodostats.com/mining/notary/node-9_EU?start=2019-07-15&end=2019-08-15
-    
-    Blocks Mined:		541
-    
-    ---------------
-    Donation (out)
-    
-    KMDLabs (20%)
-    Address:	bDEV1RkHmDWx9PvHpyabcNQW2bJqk9Dt6J
-    txid:		d3ac152959cffb4a29a6167cf86c0e675a0fa16126b962d1fcf28df0fb31b9a6
-    ===============================================
-
-
-# KMD NN Elections 2019
-
-## It's official, node-9 won a place!
-
-![Official results](https://raw.githubusercontent.com/node-prime/node-9/master/2019%20NN%20Election%20Results%20(official).png)
-
-The new Notaries will take their places with the KMD hardfork, around the end of June / start of July.
-
-Until then it will be a busy month and a half of preparing and optimizing the server and getting in more practice.  The first month or two of mainnet should be quite intense with a lot to learn and do.
-
-There will be many more chains to notarize with some very talented and experienced NN operators.  During this preparation time new strategies and tactics will need to be developed.
-
-The election is now over, but your contact is always welcome.  Feel free to reach out anytime.  Happy to hear from you.
-
-Thank you very much for your support! 
-
-    Discord:  CrisF#3405
-    Email:    CrisFell@pm.me
-    Website:  https://node9.xyz
-    
-## Results (unofficial)
-### node-9 won a spot!!
-
-![Unofficial results](https://raw.githubusercontent.com/node-prime/node-9/master/2019%20NN%20Election%20Results%20(unofficial).png)
-
-## Thank you!
-
-I am deeply humbled and grateful for all of the support that node-9 has received.  The election was very tight in the EU region and your VOTE2019 really counted.  Thank you very much.
-
-The support node-9 has received goes back far beyond these elections.
-
-One year ago I watched the Notary Node elections and thought to myself how cool it would be to play a part in supporting such a cause. I fantasized of myself having such a role. A pleasant distraction from the troubles I was having operating a simple GUI and navigating Slack.
-
-The patience, help and encouragement that have been so freely given by the Komodo community and certain members in particular is a testament to the character of this project and the importance of its purpose.
-
-To me the thing that has shone through the brightest in all of this has been people's willingness to give an 'anybody' a chance.  
-
-I didn't expect that.
-
-This experience has shown me a big part of what the 'blockchain revolution' and, more specifically, the Komodo project is about. It is something worth fighting for and I'll stand up and do my part. 
-
-Thank you for giving me this hope and opportunity, and for your support.
-
-CrisF
-
-
-### Vote Bounty!
-Many thanks go out to Kolo for his generous bounty of 50,000 VOTE2019!  Thank you and all the others who have given their support.
-
-
-![VOTE2019 bounty announcement](https://raw.githubusercontent.com/node-prime/node-9/master/VOTE2019_bounty.png
-)
-
-It was a busy week working on the new server and dealing with some downtime. The cause of this trouble is still under investigation.  It made for a 40-hour-day early in the week.  Not fun, but good practice and experience for when things get real on Mainnet.  The goal for the week is to continue optimizations on the new server and prepare for the big push during the final week of voting.  Again, keeping node-9 around the top of the lead pack is a priority. 
-
-### Success
-node-9 hit its target!
-
-
-![Testnet bounty winner announcement](https://raw.githubusercontent.com/node-prime/node-9/master/results.png)
-
-The goal for last week was to have the most overall notarizations on testnet and claim [Decker's bounty](#testnet). At approximately 11:45pm(UTC) Sunday 20 April, with 15 minutes to spare, node-9 was able to edge past the previous leader after a week-long chase.  That lead has been slowly increasing.  Still a long, long way to go but nice to have a small victory to celebrate.
-
-Very grateful to all of those people who have given their time, knowledge and support to show me the way. I'm standing on the backs of giants here.  Will keep on doing my part.
-
-This coming week the plan is to maintain a notarization rate along with the top of the pack and get the new server up for testing and optimization.  Fun and frustration expected :)
-
-
-### Testnet
-
-node-9 is running well on testnet.  Decker has kindly put up a bounty for the most total notarizations at the end of this week, finishing on Sunday, 21 April.  That will be the next target.  It will be a difficult goal to reach with 2 strong candidates out in front.  A week is a long time though and much can happen :)
-
-![Decker's Bounty](https://raw.githubusercontent.com/node-prime/node-9/master/Deckers_bounty.png)
-
-You can follow node-9's testnet stats here (node-9 is labeled as "CrisF")  :
-
-Testnet Stats:   [https://notarystats.info/testnet.php?period=all](https://notarystats.info/testnet.php?period=all)
-   
-
-It is possible that the node-9 server may be upgraded over the coming weekend. It will take some time to optimize and may involve some downtime, so servers may not be switched until after claiming Decker's bounty ;)   Fingers crossed.
-
-___
-
-# KMD NN Elections 2019
-
-Well, the elections have officially started!
-
-
-![VOTE2019 airdrop announcement](https://raw.githubusercontent.com/node-prime/node-9/master/airdrop_ann.png)
-
-## Thank you to those who have voted already!  Really appreciate your support.
-
-Vote totals and results can be found here:
-
-Stats:      [https://dexstats.info/votelist.php](https://dexstats.info/votelist.php)
-
-Explorer:   [https://vote2019.explorer.dexstats.info](https://vote2019.explorer.dexstats.info)
-
-Richlist:   [https://vote2.kmdexplorer.io/richlist](https://vote2.kmdexplorer.io/richlist)
-    
-# node-9 KMD Notary Node Proposal 2019
-
-Thank you for checking out my Notary Node Proposal. Your votes would be greatly appreciated!
-Please send them here:  
-### Vote address: RBDivEArcb7aRsYTvtN5MRnaxeDAepSNmW              --> ![n9 Address QR](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_address_QR.png)
-  
-In this proposal I talk about myself a lot.  That just seems to be the clearest way to express what I am offering.  Please don't think I'm a narcissistic megalomaniac.
-I am in fact far, far better than that.  
-:wink: :wink:
-
-### TL;dr  --  The Point
-
-> The point of all of this is to give you one simple picture.
-> **```I'll be there, I'll do the work and I'll push limits.```**
-> You can check my record on this through Discord search, or
-> by asking around.  Get in touch if you have any questions.
-
-    Discord:  CrisF#3405
-    Email:    CrisFell@pm.me
-    Website:  https://node9.xyz
-    
-PGP Key:  [See page bottom](#pgp-key)
-
-### How to participate
-Information on how the NN elections work and how to vote can be found on the [Komodo website, here](https://komodoplatform.com/third-annual-notary-node-election/) and on [Komodoelection.com](https://komodoelection.com).  One KMD earns one vote token. It is possible to send portions of your vote tokens to multiple candidates. 
-
-# Proposal
-
-### Region: EU
-
-### Purpose
-
-As a Komodo EU Notary I will focus on notarizing.  Notarizing to the highest level I am able.  I will also support others in doing the same.  I believe that what we are creating here with Komodo is a very important step in the right direction.  As such, I take the responsibility of the role of Notary Node operator very seriously.
-  
-### Method
-
-I will reliably put in the time and effort to do the best job I can possibly do.  This means being available when needed for updates, support and for active participation in the notary node community.  It also means I will do my best to improve my skills and hardware continually throughout the entire one year term.  Although these concepts may sound trivial and common, they are in fact not.  I believe my record, found through search or by asking around, will show that I am capable and willing to make this happen.
-
-### Means
-Through the use of a network of support I have developed and with the experience, skills and knowledge I have gained through working in KMDLabs as a Notary Node operator and basic tester I will continually optimize my node throughout the year, regardless of my notarization standings. I am not a dev or a very technical person but I have found out where and how to find and implement solutions to technical problems.
-
-### Biography
-
-The below accomplishments are very minor, without a doubt.  If you consider a start with absolute zero skill or knowledge of anything to do with computers, let alone blockchain and crypto, these accomplishments may take on a different perspective.
-
-- mm1 stress test - received bug bounty for finding and reporting bug
-- scaling test - one of very few to send a txBlast, participating where possible
-- Pos64tests - actively participated in tests. Found minor bugs.  Only one to set up CC (dice) outside of 'official' test contract. 
-- minor participation in PIRATE
-  * setup a test chain for PIRATE NN tests (not used)
-  * involved in deciding change to the current block reward
-  * involved in PIRATE notarization testing in KMDLabs
-- provide assistance in Discord ```'LANGUAGES AND LOCATIONS' #japanese``` channel
-- KMDLabs
-  * active participation in community
-  * basic testing on setup of Labs
-  * basic testing on first CCs
-  * built and maintain [KMDLabs website](https://kmdlabs.com)
-  * wrote, compiled or edited majority of content for website
-  * setup and maintain [KMDLabs pad](https://kmdlabs.cc)
-  * perform various non-dev jobs so devs can get on with devving
-  
-- basic testing on Marmara chain
-- assisted in early Marmara documentation work
-- mm2 community tester
-- active in various KMD channels
-- actively working with KMD team, outside of the online world, to bring business to KMD and its ecosystem
 
 ### Node
 The exact details of the node I will be using will be finalized, should I be elected, after the election but well before going live on mainnet.  I expect an influx of new assetchains and and projects requiring dPoW over the coming year and will spec the server to meet this demand.  
@@ -478,20 +185,7 @@ Minimum specifications will be as follows:
 | RAM | 128GB DDR4 ECC |
 | Storage| 2 x 1TB SSD|
 | Network | 1 Gbps |
-| Location | EU datacentre |
-
-### Pledge
-
-If elected as a KMD Notary Node operator I pledge to donate 20% of the KMD mined by the node to [KMDLabs](https://kmdlabs.com) to be used to improve their infrastructure and their support for development initiatives.   
-
-> [KMDLabs](https://kmdlabs.com) is a 'not for profit' testing ground for R&D
->  work on Komodo (KMD), Komodo based assetchains
-> and Crypto-Conditions contracts. It also provides an
-> incentivized test network, technical services and support
-> knowledge base that will attract and onboard projects
-> and developers to the Komodo ecosystem. It is not a
-> business, but aims to provide free and very low cost
-> services for development on the Komodo Platform.
+| Location | EU & NA datacentre |
 
 ### The Point
 
@@ -501,22 +195,19 @@ The point of this embarrassing self-aggrandizement is to give you one simple pic
 
 Please send votes my way.
 
-### Vote address: RBDivEArcb7aRsYTvtN5MRnaxeDAepSNmW              --> ![n9 Address QR](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_address_QR.png)
+### EU VOTE2021 address: RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt
+### NA VOTE2021 address: RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6  
+ *If you would like to vote for only one of the Node-9 addresses, please send VOTE2021 to the Node-9* **EU node. RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**
 
 Thanks!
 
 CrisF
 
-### Disclosure
-- I am a current [KMDLabs Notary Node](https://kmdlabs.com/notary-node) operator.
-- I have personally donated funds to KMDLabs, who I will donate a portion of node earnings to, and its spin-off projects.
-
 ### Contact information
 
     Discord:  CrisF#3405
     Email:    CrisFell@pm.me
-    Website:  https://node9.xyz
-    
+   
 PGP Key:  [See page bottom](#pgp-key)
     
 ![n9 Footer](https://raw.githubusercontent.com/node-prime/node-9/master/n-9_banner_blanc.png)
