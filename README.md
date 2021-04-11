@@ -203,8 +203,10 @@ The point of this embarrassing self-aggrandizement is to give you one simple pic
 Please send votes my way.
 
 **EU** VOTE2021 address: **RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**
+
 **NA** VOTE2021 address: **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**  
- *If you would like to vote for only one of the Node-9 addresses, please send VOTE2021 to the Node-9* **EU node. RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**
+
+*If you would like to vote for only one of the Node-9 addresses, please send VOTE2021 to the Node-9* **EU node. RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**
 
 Thanks!
 
