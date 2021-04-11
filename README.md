@@ -25,20 +25,22 @@ Thank you for checking out my Notary Node Proposal. As a proven reliable Komodo 
 > - organize and actively involved in a Tokyo-based privacy group
 > (Further contributions listed below) 
 
+**EU** VOTE2021 address:  **RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**
+
+**NA** VOTE2021 address:  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**
+
+ *If you would like to vote for only one of the Node-9 addresses, please send VOTE2021 to the Node-9* **EU node. RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**
+
 ---
 ### Region:       EU
 
 Please send VOTE2021 here:  **RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**        --> ![n9 Address QR](https://raw.githubusercontent.com/node-prime/node-9/master/n9_EU_address_QRcode_2021.png)
-
-**EU** VOTE2021 address:  **RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**
 
 ---
 
 ### Region:       NA
 
 ![n9 Address QR](https://raw.githubusercontent.com/node-prime/node-9/master/n9_NA_address_QRcode_2021.png)        <-- Please send VOTE2021 here:  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**
-
-**NA** VOTE2021 address:  **RLvYMe7oB5zsWks4y4ue97xGYjEbfERdT6**
 
 ---
 
